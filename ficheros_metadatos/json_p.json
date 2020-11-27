@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "Nombre": "Adrian",
+      "Apellido": "Gonzalez",
+      "Profesion": "Economista"
+    },
+    {
+      "Nombre": "Carolina",
+      "Apellido": "Fernandez",
+      "Profesion": "Optica"
+    },
+    {
+      "Nombre": "David",
+      "Apellido": "Gonzalez",
+      "Profesion": "Futbolista"
+    }
+ ]
+}
